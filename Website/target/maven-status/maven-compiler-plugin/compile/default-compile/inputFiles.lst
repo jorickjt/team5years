@@ -1,0 +1,13 @@
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\web\LoginController.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\domain\User.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\services\api\UserService.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\services\impl\UserServiceImpl.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\IpApplication.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\domain\roles\Regular.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\domain\roles\Administrator.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\security\MultiHttpSecurityConfig.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\domain\Role.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\web\IndexController.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\repositories\api\UserRepository.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\services\impl\Initializer.java
+C:\Users\jt_tr\Desktop\IntegratieProject\src\main\java\be\kdg\ip\services\exceptions\UserServiceException.java

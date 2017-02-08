@@ -1,0 +1,14 @@
+be\kdg\ip\domain\User.class
+be\kdg\ip\security\MultiHttpSecurityConfig.class
+be\kdg\IpApplication.class
+be\kdg\ip\domain\roles\Regular.class
+be\kdg\ip\services\impl\UserServiceImpl.class
+be\kdg\ip\repositories\api\UserRepository.class
+be\kdg\ip\services\impl\Initializer.class
+be\kdg\ip\services\exceptions\UserServiceException.class
+be\kdg\ip\web\IndexController.class
+be\kdg\ip\domain\roles\Administrator.class
+be\kdg\ip\services\api\UserService.class
+be\kdg\ip\security\MultiHttpSecurityConfig$FormLoginWebSecurityConfigurerAdapter.class
+be\kdg\ip\domain\Role.class
+be\kdg\ip\web\LoginController.class
